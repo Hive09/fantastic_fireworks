@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+header
+{
+     background-color: darkblue;
+    color: white;
+    border-radius:10px;
+    margin:10px;
+    height: 70px;
+}
+a{text-decoration: none;}
+h1
+{
+    color: darkgoldenrod;
+    text-align: center;
+   font-size: 36px;
+   font-family: 'Times New Roman', Times, serif;
+}
+footer
+{background-color: rgb(107, 88, 47);
+height:100px;
+}
+p footer{
+    color: orange ; 
+}
+nav a{
+    text-decoration: none;
+    width: 1500pt;
+    height: 100px;
+    color: purple 
+    ;border-radius: 20px;
+background-color: rgb(215, 177, 223);
+    }
+    .we{
+background-color: darkkhaki;
+border-radius: 20px;
+  }
